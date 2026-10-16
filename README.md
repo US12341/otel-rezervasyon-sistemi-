@@ -2,8 +2,8 @@
 
 Veritabanı Yönetim Sistemleri dersi projesi.
 
-## Grup Üyeleri
-- Usame Hamada
+## Proje Ekibi
+- **Usame Hamada** *(Proje tek kişilik)
 
 ## Kurulum
 1. Sanal ortamı oluşturun ve aktif edin:
@@ -11,7 +11,7 @@ Veritabanı Yönetim Sistemleri dersi projesi.
    `source venv/Scripts/activate`
 
 2. Kütüphaneleri yükleyin:
-   `pip install django mysqlclient python-dotenv`
+   `pip install django djangorestframework pyjwt mysqlclient python-dotenv`
 
 3. `.env` dosyasını oluşturup veritabanı ayarlarını ekleyin.
 
