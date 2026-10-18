@@ -1,7 +1,7 @@
 # Ders Sonu Ödevi - Hastane Otomasyonu
 
 ## ER Diyagramı
-![ER Diyagramı](er_diyagrami.png)
+![ER Diyagramı](er_diyagrami)
 
 ## Tablo Tasarımları
 
