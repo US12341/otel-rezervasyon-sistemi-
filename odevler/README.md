@@ -1,7 +1,8 @@
 # Ders Sonu Ödevi - Hastane Otomasyonu
 
 ## ER Diyagramı
-![ER Diyagramı](er_diyagrami)
+![ER Diyagramı](<img width="1031" height="650" alt="er_diyagrami" src="https://github.com/user-attachments/assets/15563e83-c24e-4711-b813-dd8b60c65789" />
+)
 
 ## Tablo Tasarımları
 
